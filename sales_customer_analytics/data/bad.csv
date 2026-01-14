@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Revenue
+3001,2024-01-06,C201,Arun,USB Cable,Electronics,1,300
+3002,2024-01-28,C202,Pooja,Notebook,Education,2,400
+3003,2024-02-10,C203,Manish,Pen,Education,5,250
+3004,2024-02-25,C204,Kavita,Mouse,Electronics,1,600
+3005,2024-03-08,C205,Rohit,Charger,Electronics,1,700
+3006,2024-03-21,C206,Sunita,Water Bottle,Home,1,350
+3007,2024-04-05,C207,Ajay,Keychain,Accessories,2,300
+3008,2024-04-18,C208,Meena,Notebook,Education,1,200
+3009,2024-05-02,C209,Deepak,Phone Cover,Accessories,1,500
+3010,2024-05-19,C210,Nisha,USB Cable,Electronics,1,300

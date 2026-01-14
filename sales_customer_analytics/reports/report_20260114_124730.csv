@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Revenue,Month,Year
+2001,2024-01-04,C101,Rahul,Laptop,Electronics,1,45000,2024-01,2024
+2002,2024-01-15,C102,Neha,Mobile,Electronics,1,18000,2024-01,2024
+2003,2024-02-02,C103,Amit,Office Chair,Furniture,1,9000,2024-02,2024
+2004,2024-02-20,C101,Rahul,Headphones,Electronics,1,3000,2024-02,2024
+2005,2024-03-05,C104,Priya,Shoes,Fashion,2,6000,2024-03,2024
+2006,2024-03-22,C105,Kunal,Watch,Fashion,1,12000,2024-03,2024
+2007,2024-04-03,C102,Neha,Tablet,Electronics,1,22000,2024-04,2024
+2008,2024-04-18,C106,Suman,Books,Education,3,4500,2024-04,2024
+2009,2024-05-01,C107,Rakesh,Bag,Fashion,2,7000,2024-05,2024
+2010,2024-05-20,C108,Anita,Printer,Electronics,1,14000,2024-05,2024
+2011,2024-06-07,C109,Deepak,Desk,Furniture,1,11000,2024-06,2024
+2012,2024-06-15,C110,Sunita,Laptop,Electronics,1,47000,2024-06,2024
