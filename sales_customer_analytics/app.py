@@ -27,7 +27,7 @@ st.set_page_config(
 # GLOBAL PATHS
 # ============================================================
 
-DATA_PATH = "data/sales_data.csv"
+DATA_PATH = "sales_customer_analytics/data/sales_data.csv"
 REPORTS_PATH = "reports"
 os.makedirs(REPORTS_PATH, exist_ok=True)
 
